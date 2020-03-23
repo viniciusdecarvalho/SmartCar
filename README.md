@@ -27,4 +27,4 @@ Aplicação para localizar e informar sobre preços e qualidade dos serviços pr
 	- Aplicação deverá estar disponível para instalação somente para usuário do território do Brasil. 
 
 #### Modelagem com o Diagrama caso de uso
-![DiagramaUsoGeral](https://github.com/viniciusdecarvalho/SmartCar/blob/master/diagrama_caso_uso_geral.png?raw=true "DiagramaUsoGeral")
+![DiagramaUsoGeral](https://github.com/viniciusdecarvalho/SmartCar/blob/master/projeto/diagrama_caso_uso_geral.png?raw=true "DiagramaUsoGeral")
